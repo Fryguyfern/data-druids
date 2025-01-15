@@ -11,7 +11,7 @@ Doing our best :\)
 
 ## Team Materials
 Templates for team materials are stored on Canva.
-- [Letterhead](team-materials/dd-letterhead.pdf.png)
+- [Letterhead](team-materials/dd-letterhead.pdf)
 - [Business Cards](team-materials/dd-cards.pdf)
 - [Email Footer](team-materials/dd-footer.pdf)
 
